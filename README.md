@@ -1,1 +1,1 @@
-# blog-cuda-onnx-tensorrt-triton
+Jupyter notebook for [blogpost](https://sriramgkn.github.io/cuda-onnx-tensrt/) on CUDA, ONNX, TensorRT, and Triton. Dependencies are explained inside the notebook. These codes were developed for illustrative purposes, and might benefit from customization to suit specific needs.
